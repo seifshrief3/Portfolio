@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 const stack = [
   "React",
   "Tailwind CSS",
+  "JavaScript",
   "Node.js",
   "Express",
   "PostgreSQL",
